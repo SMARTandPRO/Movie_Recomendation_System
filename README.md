@@ -1,4 +1,4 @@
-# Movie Recomendation System
+# Movie Recommendation System
 
 Copyright (c) 2024, SMART &PRO - Juan García
 
